@@ -54,7 +54,7 @@ setup(
 
     install_requires=[
         'tweepy >=3.5.0, <4',
-        'pyyaml>=4.2b1',
+        'pyyaml==5.1.2',
     ],
 
     test_suite="tests",
